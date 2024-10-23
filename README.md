@@ -14,6 +14,9 @@ FlashCard Pro is a Vue.js-based flashcard application designed to help users lea
 - Responsive design for mobile and desktop
 - Local Storage for data persistence
 
+## Feature Introduction Video
+Watch a clip on how flashcard works at [How to use Flashcard App](https://drive.google.com/file/d/14ZkN9lbN_fDklZeZA0jMze8zxsq2Za1s/view?usp=drive_link)
+
 
 ## Recommended IDE Setup
 
