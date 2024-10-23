@@ -15,7 +15,6 @@ declare module 'vue' {
     CardInput: typeof import('./../components/CardInput.vue')['default']
     CardsFolder: typeof import('./../components/CardsFolder.vue')['default']
     ChooseFolder: typeof import('./../views/ChooseFolder.vue')['default']
-    copy: typeof import('./../components/FolderListItemBundle copy.vue')['default']
     DeleteNotification: typeof import('./../components/DeleteNotification.vue')['default']
     DisplayCard: typeof import('./../components/DisplayCard.vue')['default']
     DisplayFlashcard: typeof import('./../views/DisplayFlashcard.vue')['default']
